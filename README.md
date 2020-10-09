@@ -1,2 +1,2 @@
-# Patr-nPageObject.
+# PageObject.
 Ejercitacion-PatrónPageObject.
